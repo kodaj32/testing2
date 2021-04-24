@@ -1,0 +1,8 @@
+C:\Users\radko\OneDrive\Počítač\Vysoká škola\BIT1\Letný semester 2020 - 2021\IVS\Projekt 2\Profiling\Profiling\bin\Debug\Profiling.exe.config
+C:\Users\radko\OneDrive\Počítač\Vysoká škola\BIT1\Letný semester 2020 - 2021\IVS\Projekt 2\Profiling\Profiling\bin\Debug\Profiling.exe
+C:\Users\radko\OneDrive\Počítač\Vysoká škola\BIT1\Letný semester 2020 - 2021\IVS\Projekt 2\Profiling\Profiling\bin\Debug\Profiling.pdb
+C:\Users\radko\OneDrive\Počítač\Vysoká škola\BIT1\Letný semester 2020 - 2021\IVS\Projekt 2\Profiling\Profiling\bin\Debug\MathLibrary.dll
+C:\Users\radko\OneDrive\Počítač\Vysoká škola\BIT1\Letný semester 2020 - 2021\IVS\Projekt 2\Profiling\Profiling\bin\Debug\MathLibrary.pdb
+C:\Users\radko\OneDrive\Počítač\Vysoká škola\BIT1\Letný semester 2020 - 2021\IVS\Projekt 2\Profiling\Profiling\obj\Debug\Profiling.csprojResolveAssemblyReference.cache
+C:\Users\radko\OneDrive\Počítač\Vysoká škola\BIT1\Letný semester 2020 - 2021\IVS\Projekt 2\Profiling\Profiling\obj\Debug\Profiling.exe
+C:\Users\radko\OneDrive\Počítač\Vysoká škola\BIT1\Letný semester 2020 - 2021\IVS\Projekt 2\Profiling\Profiling\obj\Debug\Profiling.pdb
